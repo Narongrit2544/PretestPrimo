@@ -2,7 +2,7 @@
 
 ### 1. สร้างโปรเจกต์
     
-    mkdir pretestprimo
+        mkdir pretestprimo
         npm init -y
     
         
